@@ -29,7 +29,7 @@ To run this project, you need Node.js and npm installed on your machine.
 1. Start the development server:
    ```bash
    npm run dev
-2. Open your browser and navigate to http://localhost:3000 to see the app in action.
+2. Open your browser and navigate to the local host URL provided by the development server.
 3. Browse the menu and view the nutritional information for each item.
 
 ## Project Structure
