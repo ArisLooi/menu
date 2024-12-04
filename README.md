@@ -1,4 +1,4 @@
-# Uncle Haris Fried Chicken Menu
+![image](https://github.com/user-attachments/assets/bf9ae8dc-be61-4e9c-a4c5-78d1f74ddc5e)# Uncle Haris Fried Chicken Menu
 
 Welcome to the Uncle Haris Fried Chicken Menu project! This is a simple React application that displays a menu with nutritional information for each item. It's a great starting point for learning React components and props.
 
@@ -17,7 +17,7 @@ To run this project, you need Node.js and npm installed on your machine.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/uncle-haris-fried-chicken-menu.git
+   git clone https://github.com/ArisLooi/props-w-menu.git
 2. Navigate to the project directory:
    ```bash
    cd uncle-haris-fried-chicken-menu
